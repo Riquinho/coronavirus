@@ -11,7 +11,7 @@ Basicamente o programa busca a quantidades de dias do primeiro infectado em cada
 No exemplo da imagem, foi pego as datas da primeira infecção na Italia, que ocorreu no dia 31-01-2020 e do Brasil no dia 26-02-2020.
 Pegou o numero de infectados que cresciam em cada dia em ambos os Paises.
 Marcou o primeiro dia com o numero de infectados em cada Pais.
-Fez a projeção por media ponderada do numero de infectados do Brasil para o numero de dias da Italia.
+Fez a projeção por media ponderada do numero de infectados do Brasil para o numero de dias dos primeiros registos no mundo.
 
 Programa que compara entre paises a taxa de crescimento de infectados, possui o objetivo de alertar e comparar a efetivação das medidas adotadas por diversos paises.
 
